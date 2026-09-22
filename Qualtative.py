@@ -232,7 +232,7 @@ def main():
 
     baseline_model = BaselineStudent().to(cfg.DEVICE)
 
-    # Real GT
+
     gt_all = np.load(cfg.GT_NPY)
     print(f"Loaded real GT: shape = {gt_all.shape}")
 
