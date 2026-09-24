@@ -39,10 +39,11 @@ checkpoint/               # Model checkpoints and figures
 
 The framework supports the following datasets:
 
-* **UCF-Crime**
-* **XD-Violence**
+[UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
+[XD-Violence](https://roc-ng.github.io/XD-Violence/)
 
 Please prepare the corresponding video data, pre-extracted features, training/testing lists, and ground-truth annotations before training.
+
 
 ## MLLM Knowledge Extraction
 
