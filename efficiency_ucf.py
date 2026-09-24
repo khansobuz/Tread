@@ -1,13 +1,3 @@
-"""
-Efficiency evaluation for UCF:
-- Params (M)
-- GPU Memory (GB)
-- Time (s/video)
-
-Models:
-1) Ours Lightweight Student
-2) MLLM Qwen2.5-VL-7B
-"""
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
