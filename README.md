@@ -53,13 +53,13 @@ The frozen MLLM is used to extract temporal relational anomaly knowledge from ra
 ### UCF-Crime
 
 ```bash
-python LLM_features_UCF.py
+python MLLM_features_UCF.py
 ```
 
 ### XD-Violence
 
 ```bash
-python LLM_features_XD.py
+python MLLM_features_XD.py
 ```
 
 ## Training and Evaluation
@@ -103,4 +103,4 @@ During training, the lightweight student learns temporal relational anomaly know
 
 ## Citation
 
-If you find this repository useful in your research, please consider citing the corresponding paper.
+
