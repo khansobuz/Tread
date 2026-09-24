@@ -25,8 +25,8 @@ pip install git+https://github.com/openai/CLIP.git
 ## Repository Files
 
 ```text
-LLM_features_UCF.py       # MLLM feature extraction for UCF-Crime
-LLM_features_XD.py        # MLLM feature extraction for XD-Violence
+MLLM_features_UCF.py       # MLLM feature extraction for UCF-Crime
+MLLM_features_XD.py        # MLLM feature extraction for XD-Violence
 main_UCF.py               # Training and evaluation on UCF-Crime
 main_XD.py                # Training and evaluation on XD-Violence
 efficiency_ucf.py         # Efficiency evaluation
